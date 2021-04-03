@@ -1,2 +1,2 @@
 # dongy
-chữa bệnh đông y
+Thuốc tri bệnh sùi mào gà tại nhà
